@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"karita"
+	],
+	"copyright": "Copyright © 2020, karita",
+	"dependencies": {
+		"stdx-allocator": "~>3.0.2"
+	},
+	"description": "A minimal D database.",
+	"license": "BSL-1.0",
+	"name": "dbd"
+}
